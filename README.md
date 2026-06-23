@@ -107,8 +107,13 @@ Tenho interesse especial na área de desenvolvimento web, buscando criar aplica�
 <br/>
 
 ### 📊 Estatísticas
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuriscain-git&show_icons=true)
+<p>
+<img
+    align="left"
+    height="200"
+    style="padding-right 10px;"
+    src=https://github-readme-stats.vercel.app/api?username=yuriscain-git&show_icons=true&theme=tokyonight
+/>
 
 <img 
       align="left" 
@@ -118,4 +123,3 @@ Tenho interesse especial na área de desenvolvimento web, buscando criar aplica�
   />
 
 </p>
-
