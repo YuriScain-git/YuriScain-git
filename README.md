@@ -106,14 +106,6 @@ Tenho interesse especial na área de desenvolvimento web, buscando criar aplica�
 <br/>
 <br/>
 
-### 📊 Estatísticas
-<p>
-<img
-    align="left"
-    height="200"
-    style="padding-right 10px;"
-    src=https://github-readme-stats.vercel.app/api?username=yuriscain-git&show_icons=true&theme=tokyonight
-/>
 
 <img 
       align="left" 
